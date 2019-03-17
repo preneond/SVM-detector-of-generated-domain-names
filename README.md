@@ -1,0 +1,1 @@
+# SVM-detector-of-generated-domain-names
